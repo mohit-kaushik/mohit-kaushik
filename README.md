@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit-kaushik
-- 👀 I’m interested in deep learning and leveraging deep learning to its full potential using web apps, mobile apps and cloud technologies.
-- 🌱 I’m currently learning about the object detection and cloud technologies.
-- 💞️ I’m looking to collaborate on deep learning projects.
+- 👀 I’m interested in deep learning and web applications, leveraging cloud platforms.
+- 🌱 I’m currently learning about the cloud technologies and hybrid mobile apps.
+- 🌞 Enhancing my knowledge on python and JS
 - 📫 You can reach me at mohitkaushik2468@gmail.com
 
 <!---
